@@ -6,17 +6,25 @@ published: true
 #### Instructor
 
 Samantha Stevenson
+<br> 
 sstevenson@ucsb.edu
+
+<p>
+  Office Hours: Wednesday 11am-12pm, Bren Hall 3412
+  <br>
+    if this time does not work for you, please let me know and we can schedule something else!
+</p>
+  
 
 <br> 
 
 #### Important Links
-Course Syllabus
+<a href="https://docs.google.com/document/d/1PmlknBXdZrjvoppj7FDxxs78XXUOnEhJBO98Ut_lN7s/edit">Course Syllabus and Code of Conduct</a>
 
 <br> 
 
 #### Readings/Resources
-
+<a href="https://earth-env-data-science.github.io/intro.html">An Introduction to Earth and Environmental Data Science</a> (online textbook using Python)
 
 <br> 
 
