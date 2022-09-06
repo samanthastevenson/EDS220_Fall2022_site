@@ -24,7 +24,12 @@ sstevenson@ucsb.edu
 <br> 
 
 #### Readings/Resources
+There is no required textbook for this course. However, there are some excellent (free!) online books covering some of our course material, which make good references if something is confusing:
+
 <a href="https://earth-env-data-science.github.io/intro.html">An Introduction to Earth and Environmental Data Science</a> (online textbook using Python)
+<br>
+
+<a href="https://agupubs.onlinelibrary.wiley.com/doi/book/10.1002/9781119606925">Earth Observation Using Python: A Practical Programming Guide (PDF textbook)</a>
 
 <br> 
 
@@ -43,3 +48,17 @@ By the end of the course, students should be able to:
 * __Work with Peers__ to create use case examples for datasets, and communicate to the rest of the class.
 
 
+#### Course Schedule (subject to change)
+| ** Week **    | **Topic**                     |
+|-------------------|----------------------------------|
+| 1             | *Overview: Data Types and 
+                                  Sources*             |
+| 2             | *Remote Sensing Basics*              |
+| 3             | *Mapping Fundamentals*               |
+| 4             | *Data Quality Control*               |
+| 5             | *Land Cover and Air Quality Data*    |
+| 6             | *Ecological Data*                    |
+| 7             | *Snow Remote Sensing*                |
+| 8             | *Physical Remotely Sensed Data*      |
+| 9             | *Climate Modeling and the IPCC*      |
+| 10            | *Student Final Presentations*        |
