@@ -49,15 +49,54 @@ By the end of the course, students should be able to:
 
 
 #### Course Schedule (subject to change)
-| ** Week **    | **Topic**                     |
-|-------------------|----------------------------------|
-| 1             | *Overview: Data Types and Sources*   |
-| 2             | *Remote Sensing Basics*              |
-| 3             | *Mapping Fundamentals*               |
-| 4             | *Data Quality Control*               |
-| 5             | *Land Cover and Air Quality Data*    |
-| 6             | *Ecological Data*                    |
-| 7             | *Snow Remote Sensing*                |
-| 8             | *Physical Remotely Sensed Data*      |
-| 9             | *Climate Modeling and the IPCC*      |
-| 10            | *Student Final Presentations*        |
+
+<table>
+<thead>
+	<tr>
+		<th>Week</th>
+		<th>Topic</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>1</td>
+		<td>Overview: Data Types and sources</td>
+	</tr>
+  <tr>
+		<td>2</td>
+		<td>Remote Sensing Basics</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>Mapping Fundamentals</td>
+	</tr>  
+	<tr>
+		<td>4</td>
+		<td>Data Quality Control</td>
+	</tr>  
+	<tr>
+		<td>5</td>
+		<td>Deeper Dive: Land Cover and Air Quality Data</td>
+	</tr>  
+	<tr>
+		<td>6</td>
+		<td>Deeper Dive: Ecological Data</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>Deeper Dive: Snow Remote Sensing</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td>Deeper Dive: Other Physical Remote Sensing Data</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>Deeper Dive: Climate Modeling and the IPCC</td>
+	</tr>  
+	<tr>
+		<td>10</td>
+		<td>Student Final Presentations</td>
+	</tr>  
+</tbody>
+</table>
