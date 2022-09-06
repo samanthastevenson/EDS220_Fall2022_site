@@ -51,8 +51,7 @@ By the end of the course, students should be able to:
 #### Course Schedule (subject to change)
 | ** Week **    | **Topic**                     |
 |-------------------|----------------------------------|
-| 1             | *Overview: Data Types and 
-                                  Sources*             |
+| 1             | *Overview: Data Types and Sources*   |
 | 2             | *Remote Sensing Basics*              |
 | 3             | *Mapping Fundamentals*               |
 | 4             | *Data Quality Control*               |
