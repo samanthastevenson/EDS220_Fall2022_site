@@ -10,7 +10,7 @@ Samantha Stevenson
 sstevenson@ucsb.edu
 
 <p>
-  Office Hours: Wednesday 11am-12pm, Bren Hall 3412
+  Office Hours: Tuesday 2-3pm, Bren Hall 3412
   <br>
     if this time does not work for you, please let me know and we can schedule something else!
 </p>
