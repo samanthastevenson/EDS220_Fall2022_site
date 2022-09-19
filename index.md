@@ -23,6 +23,10 @@ sstevenson@ucsb.edu
 
 <br> 
 
+<a href="https://github.com/samanthastevenson/EDS220_Fall2022">Course Github Repository</a>
+
+<br>
+
 #### Readings/Resources
 There is no required textbook for this course. However, there are some excellent (free!) online books covering some of our course material, which make good references if something is confusing:
 
