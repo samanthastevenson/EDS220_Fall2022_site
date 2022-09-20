@@ -3,7 +3,7 @@
 
 This will serve as the 'clearinghouse' for information about course assignments. Due dates will also be announced in class, but keep checking this tab for updates!
 
-## _Quizzes: Weeks 1-4_
+## __Quizzes: Weeks 1-4__
 
 Quizzes during the first month of class will be due at __5pm Friday__ every week (beginning in Week 1).
 
@@ -13,21 +13,21 @@ Quizzes during the first month of class will be due at __5pm Friday__ every week
 * Quiz 4: Due Friday, October 21
 
 
-## _Homework Assignments: Weeks 5-9_
+## __Homework Assignments: Weeks 5-9__
 
 There will be two homework assignments, due at __5pm Monday__:
 * Homework 1: Due Monday, October 31
 * Homework 2: Due Monday, November 14
 
 
-## _Final Presentations: Week 10_
+## __Final Presentations: Week 10__
 
 The presentation of student projects will take place during Week 10:
 
-### ___Presentations: Tuesday, 11/29 and Thursday, 12/1___ 
+* #### _Presentations: Tuesday, 11/29 and Thursday, 12/1_
 
-## _Final Project: Finals Week_
+## __Final Project: Finals Week__
 
 Writeups of student projects will be due during Finals Week, on the date on which our final would have been held if we had an exam:
 
-#### ___Final Projects: DUE Monday, December 5___
+* #### _Final Projects: DUE Monday, December 5_
