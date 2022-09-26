@@ -36,6 +36,9 @@ There is no required textbook for this course. However, there are some excellent
 <a href="https://agupubs.onlinelibrary.wiley.com/doi/book/10.1002/9781119606925">Earth Observation Using Python: A Practical Programming Guide (PDF textbook)</a>
 
 <br> 
+<a href="https://www.earthdatascience.org/courses/use-data-open-source-python/">Use Data for Earth and Environmental Science in Open Source Python</a>
+
+<br>
 
 #### Learning Objectives
 
