@@ -21,9 +21,11 @@ sstevenson@ucsb.edu
 #### Important Links
 <a href="https://docs.google.com/document/d/1PmlknBXdZrjvoppj7FDxxs78XXUOnEhJBO98Ut_lN7s/edit">Course Syllabus and Code of Conduct</a>
 
-<br> 
-
 <a href="https://github.com/samanthastevenson/EDS220_Fall2022">Course Github Repository</a>
+
+<a href="https://docs.google.com/document/d/1GNVShe17jYX15Su_HyS-LziMKG_45Vdu693_7o0l8M0/edit">Recommendations for avoiding Git merge conflicts</a>
+
+<a href="https://docs.google.com/document/d/1xviSPmI8iFa1Y31TVO4DiKkbMnh-71iVoqQ_wymc7pc/edit">Installing Google Earth Engine on your local machine</a>
 
 <br>
 
