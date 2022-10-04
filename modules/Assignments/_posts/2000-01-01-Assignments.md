@@ -8,7 +8,7 @@ This will serve as the 'clearinghouse' for information about course assignments.
 Quizzes during the first month of class will be due at __5pm Friday__ every week (beginning in Week 1).
 
 * [Quiz 1: Due Friday, Sept 30](https://docs.google.com/forms/d/e/1FAIpQLSfDJUqzpsVZgE39wmgAana2lP1snJGJsFwqOIsxY_dAutG4Ng/viewform?usp=sf_link)
-* [Quiz 2: Due Sunday, October 9](https://docs.google.com/forms/d/1WCR3qafsCDzvQIoGaeUWQkHvN5UH1ZHpteEyoT_T0HI/edit)
+* [Quiz 2: Due Sunday, October 9]()
 * Quiz 3: Due Sunday, October 16
 * Quiz 4: Due Sunday, October 23
 
