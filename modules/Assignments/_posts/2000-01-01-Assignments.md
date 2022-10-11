@@ -26,6 +26,9 @@ The presentation of student projects will take place during Week 10:
 
 * #### _Presentations: Tuesday, 11/29 and Thursday, 12/1_
 
+### [Sign-up sheet for final presentations](https://docs.google.com/spreadsheets/d/1Lf5OtOdAk1HilWBZH1_Nz7vUcFuC668t7P5evbhBbzI/edit#gid=0) ###
+
+
 ## __Final Project: Finals Week__
 
 Writeups of student projects will be due during Finals Week, on the date on which our final would have been held if we had an exam:
