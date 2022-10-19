@@ -10,7 +10,7 @@ Quizzes during the first month of class will be due at __11:59pm Sunday__ every 
 * [Quiz 1: Due Friday, Sept 30](https://docs.google.com/forms/d/e/1FAIpQLSfDJUqzpsVZgE39wmgAana2lP1snJGJsFwqOIsxY_dAutG4Ng/viewform?usp=sf_link)
 * [Quiz 2: Due Sunday, October 9](https://docs.google.com/forms/d/e/1FAIpQLSeQEQsjhgNOaYXIqIBdnrEKvxldbiy3Tm9XzhnAlxrNY3YmXA/viewform?usp=sf_link)
 * [Quiz 3: Due Sunday, October 16](https://docs.google.com/forms/d/e/1FAIpQLSdZYKes0G-vQ5CUyJB-xSaWHx-lxXF5RFDqAzMs-dRCSNolQA/viewform?usp=sf_link)
-* Quiz 4: Due Sunday, October 23
+* [Quiz 4: Due Sunday, October 23](https://docs.google.com/forms/d/e/1FAIpQLSdJpRrciRwmxnPf_T-7Nfl5TngmGjf1gh51kIDZieTpLuij5w/viewform?usp=sf_link)
 
 
 ## __Homework Assignments: Weeks 5-9__
