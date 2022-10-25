@@ -15,9 +15,9 @@ Quizzes during the first month of class will be due at __11:59pm Sunday__ every 
 
 ## __Homework Assignments: Weeks 5-9__
 
-There will be two homework assignments, due at __5pm Monday__:
-* Homework 1: Due Monday, October 31
-* Homework 2: Due Monday, November 14
+There will be two homework assignments, due at __5pm Friday__:
+* [Homework 1: Due Friday, November 4](https://classroom.github.com/a/eA4fRNar)
+* Homework 2: Due Friday, November 18
 
 
 ## __Final Presentations: Week 10__
